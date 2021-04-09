@@ -52,7 +52,7 @@ h2, h3, h4{
     margin-bottom: 0.5rem;
 }
 .skill-text{
-    text-decoration: underline;
+    /* text-decoration: underline; */
     text-transform: uppercase;
     font-size: 20px;
     font-weight: bold;
@@ -60,7 +60,7 @@ h2, h3, h4{
 .fa-html5{ color: green; }
 .fa-css3{ color: rgb(73, 28, 28); }
 .fa-code{ color: brown; }
-
+.fa-cloud{ color: lightblue; }
 .wrapper-3{
     background-color: wheat;
     padding: 2rem 1rem;
